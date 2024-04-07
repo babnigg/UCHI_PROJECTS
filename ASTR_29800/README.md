@@ -1,1 +1,0 @@
-Compares bose-einstein and steady-state models for the Cosmic Microwave Background (CMB) using monopole spectrum data from COBE/FIRAS. Markov chain Monte Carlo (MCMC) is used to optimize the fit of the model to the data.
