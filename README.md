@@ -9,7 +9,7 @@ ${\color{YellowOrange}\textbf{ASTR 29800:}}$ [spring 2023](http://collegecatalog
 
 ### PROJECT DESCRIPTIONS
 ${\color{Thistle}\textbf{DATA 11900:}}$
-> **project 1**: desc...
+> **CMB_fitting**: Compares bose-einstein and steady-state models for the Cosmic Microwave Background (CMB) using monopole spectrum data from COBE/FIRAS. Markov chain Monte Carlo (MCMC) is used to optimize the fit of the model to the data.
 
 > **project 2**: desc...
 
