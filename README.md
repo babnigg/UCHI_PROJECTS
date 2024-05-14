@@ -35,3 +35,6 @@ ${\color{Thistle}\textbf{DATA 11900:}}$ [winter 2024](http://collegecatalog.uchi
 
 ${\color{YellowOrange}\textbf{ASTR 29800:}}$ [spring 2023](http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/)
 > In this course students will engage with various scientific practices to prepare them for participation in research. Students will critically analyze research presented in popular and scholarly scientific literature and practice computational, statistical, and observational techniques to explore astrophysical problems. The course will emphasize student-led discussions and interactive presentations to synthesize previous coursework and strengthen scientific thinking and communication skills. Guest lectures by members of research groups will highlight projects undertaken by faculty in Astronomy and Astrophysics to acquaint students with possibilities for research participation.
+
+
+${\color{YellowOrange}\textbf{more ASTR}}$
