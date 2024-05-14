@@ -1,3 +1,5 @@
+<h3>Works Cited</h3>
+
 1. Cameron MD, Hilderbrand GV, Joly K, Schmidt JH, Gustine DD, Mangipane LS, Mangipane B, Sorum MS. 2020. Body size plasticity in North American black and brown bears. Ecosphere. 11(8): Article e03235.  
 2. Derocher AE, Andersen M, Wiig Ø. 2005. Sexual Dimorphism of Polar Bears. Journal of Mammalogy. 86(5): 895–901.  
 3. H﻿unter, A. 2024. Rabbit Area ImageJ Macro. (RabbitArea.ijm)  
@@ -8,5 +10,8 @@
 8. Rounds RC. 1987. Distribution and Analysis of Colourmorphs of the Black Bear (Ursus Americanus). Journal of Biogeography. 14(6): 521–538.  
 9. Stevenson, RD. 1986. Allen’s Rule in North American Rabbits (Sylvilagus) and Hares (Lepus) Is an Exception, Not a Rule. Journal of Mammalogy. 67(2): 312–316.  
 10. QGIS.org, 2024. QGIS Geographic Information System. QGIS Association.
-11. (more to be added)
-12. (project will also be added)
+
+<h3>Notes</h3>
+more to be added  
+project paper will be added  
+descriptions on datasets
