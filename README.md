@@ -1,10 +1,12 @@
 # PROJECTS at UCHICAGO
 
-desc...
-
+Selected projects completed as classwork during time at the University of Chicago.
 
 
 ## PROJECT DESCRIPTIONS
+${\color{Thistle}\textbf{DATA 22100:}}$
+> **proj_1.ipynb**: desc...
+
 ${\color{Thistle}\textbf{DATA 22100:}}$
 > **proj_1.ipynb**: desc...
 
