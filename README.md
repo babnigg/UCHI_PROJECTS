@@ -4,7 +4,7 @@ Selected projects completed as classwork during time at the University of Chicag
 
 
 ## PROJECT DESCRIPTIONS
-${\color{Thistle}\textbf{DATA 22100:}}$
+${\color{Thistle}\textbf{DATA 27900:}}$
 > **proj_1.ipynb**: desc...
 
 ${\color{Thistle}\textbf{DATA 22100:}}$
